@@ -1,4 +1,6 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-25,24.95,25.03,24.88,24.98,48947,0.03,0.15,0.12,0.6,0.07,24.34,24.41,0.12,0.13,-0.01,7413856,16.53,93.33,15.0,1.0,78.33,Strong Buy Signal,25.45,24.34,23.24,0.09,62.92,Trending Low,Bearish Trend,,
+2023-07-24,24.97,24.98,24.92,24.95,28196,-0.02,0.05,-0.08,0.22,0.03,24.33,24.39,0.12,0.13,-0.01,7364909,16.08,95.0,16.67,1.0,78.33,Strong Buy Signal,25.42,24.33,23.24,0.09,62.82,Trending Low,Bearish Trend,,
 2023-07-21,24.98,24.99,24.85,24.93,77026,-0.05,0.14,-0.2,0.56,0.07,24.32,24.37,0.12,0.13,-0.02,7336713,16.08,96.67,18.33,1.0,78.33,Strong Buy Signal,25.4,24.32,23.24,0.09,62.74,Trending Low,Bearish Trend,,
 2023-07-20,24.9,24.96,24.85,24.91,65962,0.01,0.11,0.04,0.44,0.05,24.31,24.35,0.12,0.14,-0.02,7259687,15.82,98.33,20.0,1.0,78.33,Strong Buy Signal,25.38,24.31,23.24,0.09,62.67,Trending Low,Bearish Trend,,
 2023-07-19,24.9,25.05,24.7,24.88,75085,-0.02,0.35,-0.08,1.41,0.18,24.3,24.33,0.12,0.14,-0.03,7193725,15.82,100.0,21.67,1.0,78.33,Strong Buy Signal,25.35,24.3,23.24,0.09,62.57,Trending Low,Bearish Trend,,
